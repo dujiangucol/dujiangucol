@@ -1,59 +1,39 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,45:2563eb,100:7c3aed&text=Jake%20Du&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20building%20models,%20experiments,%20and%20GenAI%20systems%20that%20become%20decisions&descAlignY=58&descSize=17)
+![Profile header](https://capsule-render.vercel.app/api?type=rect&height=190&color=0:020617,55:0f172a,100:1e3a8a&text=Jake%20Du&fontColor=e5e7eb&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%7C%20Product%20Analytics%20%7C%20Optimization%20%7C%20GenAI&descAlignY=61&descSize=18)
 
-[![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
+![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1400&color=CBD5E1&center=true&vCenter=true&width=820&lines=Building+ML+systems+that+transform+data+into+operational+decisions.;Machine+Learning+%E2%80%A2+Experimentation+%E2%80%A2+Optimization+%E2%80%A2+LLMs+%E2%80%A2+Product+Analytics)
+
+[![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-dujiangucol-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dujiangucol)
-[![RAG](https://img.shields.io/badge/Featured-RAG%20Language%20Tutor-7c3aed?style=for-the-badge)](https://github.com/dujiangucol/Rag_Language_Tutor)
+[![RAG Systems](https://img.shields.io/badge/RAG%20Systems-public%20repo-1e3a8a?style=for-the-badge)](https://github.com/dujiangucol/Rag_Language_Tutor)
+[![Optimization](https://img.shields.io/badge/Optimization-public%20repo-0f766e?style=for-the-badge)](https://github.com/dujiangucol/recovery-optimization-engine)
 
 </div>
 
 ---
 
-## Data Scientist: Product, Optimization, GenAI
-
-I build data products that move from **messy data** to **measurable decisions**. My strongest work connects product analytics, experimentation, machine learning, optimization, and GenAI into systems that business teams can actually use.
-
-```text
-raw data -> features -> models -> evaluation -> decision rules -> product / operations impact
-```
-
-Currently working across product analytics, A/B testing, forecasting, optimization, and GenAI automation.
-
----
-
-## Core Skill Map
+## Recruiter Snapshot
 
 <table>
   <tr>
-    <td width="33%">
-      <h3>Product Analytics</h3>
-      <p>Metric design, A/B testing, funnel analysis, guardrails, causal readouts, product decision support.</p>
+    <td width="50%">
+      <b>Experience</b><br/>
+      Data Scientist @ DIA Associates<br/>
+      Former Data Scientist @ Lenovo<br/>
+      Former Data Scientist @ Ask2AI
     </td>
-    <td width="33%">
-      <h3>Machine Learning</h3>
-      <p>Classification, ranking, forecasting, validation, feature engineering, model diagnostics.</p>
-    </td>
-    <td width="33%">
-      <h3>Optimization</h3>
-      <p>Capacity-aware allocation, constrained decision rules, simulation, operational prioritization.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <h3>GenAI / RAG</h3>
-      <p>Retrieval pipelines, grounded generation, citations, LLM evaluation, prompt systems, safe API handling.</p>
-    </td>
-    <td width="33%">
-      <h3>Data Engineering</h3>
-      <p>ETL, BigQuery, Hive, MySQL, reporting automation, scalable analytics tables.</p>
-    </td>
-    <td width="33%">
-      <h3>Time Series</h3>
-      <p>SARIMA, rolling PCA, anomaly detection, signal modeling, market structure analysis.</p>
+    <td width="50%">
+      <b>Education</b><br/>
+      M.S. Operations Research, Columbia University<br/>
+      B.A. Statistics & Computer Science, Boston University
     </td>
   </tr>
 </table>
+
+**Core stack:** Python · SQL · Machine Learning · XGBoost · Optimization · A/B Testing · LLMs · RAG · BigQuery · Spark · ETL · Time Series · Causal Inference · Experimentation
+
+**Focus areas:** Machine Learning · Experimentation · Optimization · LLMs · Product Analytics · Decision Intelligence
 
 ---
 
@@ -62,95 +42,142 @@ Currently working across product analytics, A/B testing, forecasting, optimizati
 <table>
   <tr>
     <td width="50%">
-      <h3>RAG Language Tutor</h3>
-      <p><a href="https://github.com/dujiangucol/Rag_Language_Tutor">View repository</a></p>
-      <p>A full retrieval-augmented language tutor showing the complete RAG lifecycle: ingestion, chunking, hybrid retrieval, grounded generation, citations, evaluation, CLI, tests, and optional Streamlit UI.</p>
-      <p><b>Techniques:</b> TF-IDF retrieval, keyword overlap, phrase boosts, source metadata, expected-term recall, offline fallback generation, optional OpenAI mode.</p>
+      <h3>Recovery Optimization Engine</h3>
+      <p><a href="https://github.com/dujiangucol/recovery-optimization-engine">Public repository</a></p>
+      <p><b>Problem:</b> Recovery operations constrained by finite call capacity.</p>
+      <p><b>Solution:</b> Built payer probability modeling and liquidation scoring, then added an optimization allocation layer that converts model outputs into operational decisions.</p>
+      <p><b>Impact:</b> 31% recovered value improvement.</p>
+      <p><b>Stack:</b> Python · ML · Optimization · XGBoost · CVXPY</p>
     </td>
     <td width="50%">
-      <h3>Risk Recovery Modeling</h3>
-      <p><a href="https://github.com/dujiangucol/risk-recovery-modeling">View repository</a></p>
-      <p>A decision-intelligence project for account recovery prioritization and call allocation. It moves from features and model scores to operational allocation rules and reporting outputs.</p>
-      <p><b>Techniques:</b> feature engineering, champion-challenger modeling, decile lift, response curves, constrained allocation, automated reports.</p>
+      <h3>LLM Evaluation Platform</h3>
+      <p><i>Professional work summary</i></p>
+      <p><b>Problem:</b> Human evaluation is expensive and inconsistent.</p>
+      <p><b>Solution:</b> Built a BERT evaluation framework with prompt-based judges for LLM output scoring.</p>
+      <p><b>Impact:</b> Outperformed GPT-4o benchmark by 3%; reduced fine-tuning cost by 73%.</p>
+      <p><b>Stack:</b> LLMs · BERT · Evaluation · LoRA</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Algorithmic Trading Research</h3>
-      <p><i>Private while under review</i></p>
-      <p>Statistical arbitrage research with S&P 500 data, SVD clustering, portfolio construction, spread signals, transaction-cost-aware backtesting, and train/test improvement experiments.</p>
-      <p><b>Techniques:</b> SVD, clustering, minimum-variance weights, mean reversion, z-score signals, backtesting discipline.</p>
+      <h3>Energy Market Intelligence</h3>
+      <p><i>Professional work summary</i></p>
+      <p><b>Problem:</b> Need forecasting and market signal detection across energy supply-chain data.</p>
+      <p><b>Solution:</b> Built rolling PCA and LSTM framework for market sentiment and signal modeling.</p>
+      <p><b>Impact:</b> 73.6% directional accuracy.</p>
+      <p><b>Stack:</b> Time Series · LSTM · PCA · Python</p>
     </td>
     <td width="50%">
-      <h3>GenAI Analytics Automation</h3>
+      <h3>GenAI Customer Analytics</h3>
       <p><i>Professional work summary</i></p>
-      <p>Built self-serve GenAI analytics workflows that help marketers generate validated customer profiles through SQL-backed automation and reduce analyst dependency.</p>
-      <p><b>Techniques:</b> SQL validation, prompt workflows, product analytics, automation, human-in-the-loop checks.</p>
+      <p><b>Problem:</b> Manual analytics workflows slowed customer intelligence generation.</p>
+      <p><b>Solution:</b> Built a self-service SQL-based GenAI analytics assistant for validated customer profile generation.</p>
+      <p><b>Impact:</b> 10x query efficiency improvement.</p>
+      <p><b>Stack:</b> GenAI · SQL · Analytics · ETL</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tooling
+## Public RAG Build
 
-<p>
-  <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-b91c1c?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-34A853?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="35%">
+      <h3>RAG Language Tutor</h3>
+      <p><a href="https://github.com/dujiangucol/Rag_Language_Tutor">Public repository</a></p>
+    </td>
+    <td width="65%">
+      Retrieval-augmented language tutor with document ingestion, sentence-aware chunking, hybrid retrieval, grounded answer generation, citations, offline fallback mode, optional OpenAI generation, evaluation, tests, CLI, and Streamlit app.
+    </td>
+  </tr>
+</table>
+
+---
+
+## System Architecture
+
+```text
+Raw Data
+   ↓
+ETL Pipelines
+   ↓
+Feature Engineering
+   ↓
+ML Models
+   ↓
+Optimization
+   ↓
+Business Decisions
+```
 
 ---
 
 ## How I Think
 
-<table>
-  <tr>
-    <td><b>1. Define the decision</b><br/>Start with the action, owner, metric, and constraint.</td>
-    <td><b>2. Build the data spine</b><br/>Make features reliable before making models complex.</td>
-  </tr>
-  <tr>
-    <td><b>3. Benchmark honestly</b><br/>Use baselines, train/test separation, and business-facing diagnostics.</td>
-    <td><b>4. Ship the workflow</b><br/>Turn outputs into dashboards, rules, tools, or automated reports.</td>
-  </tr>
-</table>
+```text
+Business Problem
+   ↓
+Metric Design
+   ↓
+Data Pipeline
+   ↓
+Modeling
+   ↓
+Optimization
+   ↓
+Experimentation
+   ↓
+Operational Decision
+```
 
 ---
 
-## Background
+## Technical Toolkit
 
 <p>
-  <b>Columbia University</b> · M.S. Operations Research<br/>
-  <b>Boston University</b> · B.A. Statistics & Computer Science
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimization-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/BigQuery-0f172a?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-0f172a?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time%20Series-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Causal%20Inference-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experimentation-0f172a?style=flat-square" />
 </p>
-
-Selected areas: optimization models, machine learning, simulation, A/B testing, reinforcement learning, stochastic models, financial engineering, algorithmic trading, applied probability and statistics.
 
 ---
 
 ## Current Interests
 
-- measurable GenAI systems and RAG evaluation
-- product experimentation and causal inference
-- LLM evaluation and cost-efficient model assessment
-- optimization models for operational decisions
-- data products that combine analytics, automation, and decision support
+LLM Evaluation · Agent Systems · Optimization · Product Analytics · Decision Intelligence · Experimentation · RAG Systems
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dujiangucol&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dujiangucol&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dujiangucol&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+</div>
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7c3aed,50:2563eb,100:0f766e)
-
-<b>Building data products that move from insight to decision.</b>
+<b>Building ML systems that transform data into operational decisions.</b>
 
 </div>
