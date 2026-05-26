@@ -5,6 +5,7 @@
 ![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1400&color=CBD5E1&center=true&vCenter=true&width=820&lines=Building+ML+systems+that+transform+data+into+operational+decisions.;Machine+Learning+%E2%80%A2+Experimentation+%E2%80%A2+Optimization+%E2%80%A2+LLMs+%E2%80%A2+Product+Analytics)
 
 [![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
+[![Website](https://img.shields.io/badge/Website-dujiangucol.github.io-4f6f66?style=for-the-badge)](https://dujiangucol.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-dujiangucol-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dujiangucol)
 [![Experimentation](https://img.shields.io/badge/Experimentation-public%20repo-1e3a8a?style=for-the-badge)](https://github.com/dujiangucol/experimentation-causal-inference-toolkit)
 [![Optimization](https://img.shields.io/badge/Optimization-public%20repo-0f766e?style=for-the-badge)](https://github.com/dujiangucol/recovery-optimization-engine)
