@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-dujiangucol-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dujiangucol)
+[![Experimentation](https://img.shields.io/badge/Experimentation-public%20repo-1e3a8a?style=for-the-badge)](https://github.com/dujiangucol/experimentation-causal-inference-toolkit)
 [![Optimization](https://img.shields.io/badge/Optimization-public%20repo-0f766e?style=for-the-badge)](https://github.com/dujiangucol/recovery-optimization-engine)
 [![Forecasting](https://img.shields.io/badge/Forecasting-public%20repo-b45309?style=for-the-badge)](https://github.com/dujiangucol/energy-market-intelligence)
 
@@ -44,6 +45,18 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>Experimentation & Causal Inference Toolkit</h3>
+      <p>
+        <a href="https://github.com/dujiangucol/experimentation-causal-inference-toolkit">
+          <img src="https://img.shields.io/badge/Public%20Repository-111827?style=flat-square&logo=github&logoColor=fbbf24" />
+        </a>
+      </p>
+      <p><b>Problem:</b> Product teams need reliable experiment decisions before and after launch.</p>
+      <p><b>Solution:</b> Built a Python toolkit for sample-size planning, SRM checks, A/A diagnostics, A/B tests, CUPED, DID, and decision recommendations.</p>
+      <p><b>Impact:</b> Demonstrates end-to-end experimentation workflow from design to business recommendation.</p>
+      <p><b>Stack:</b> Python · A/B Testing · CUPED · Causal Inference · Statsmodels</p>
+    </td>
+    <td width="50%">
       <h3>Recovery Optimization Engine</h3>
       <p>
         <a href="https://github.com/dujiangucol/recovery-optimization-engine">
@@ -55,6 +68,8 @@
       <p><b>Impact:</b> 31% recovered value improvement.</p>
       <p><b>Stack:</b> Python · ML · Optimization · XGBoost · CVXPY</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>LLM Evaluation Platform</h3>
       <p><img src="https://img.shields.io/badge/Professional%20Work-111827?style=flat-square&logoColor=fbbf24" /></p>
@@ -63,8 +78,6 @@
       <p><b>Impact:</b> Outperformed GPT-4o benchmark by 3%; reduced fine-tuning cost by 73%.</p>
       <p><b>Stack:</b> LLMs · BERT · Evaluation · LoRA</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Energy Market Intelligence</h3>
       <p>
@@ -77,6 +90,8 @@
       <p><b>Impact:</b> 73.6% directional accuracy.</p>
       <p><b>Stack:</b> Time Series · LSTM · PCA · Python</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>GenAI Customer Analytics</h3>
       <p><img src="https://img.shields.io/badge/Professional%20Work-111827?style=flat-square&logoColor=fbbf24" /></p>
@@ -84,6 +99,11 @@
       <p><b>Solution:</b> Built a self-service SQL-based GenAI analytics assistant for validated customer profile generation.</p>
       <p><b>Impact:</b> 10x query efficiency improvement.</p>
       <p><b>Stack:</b> GenAI · SQL · Analytics · ETL</p>
+    </td>
+    <td width="50%">
+      <h3>Additional Work</h3>
+      <p><img src="https://img.shields.io/badge/Portfolio%20Roadmap-111827?style=flat-square&logoColor=fbbf24" /></p>
+      <p>Additional project repositories will be added as implementation-ready case studies are completed and reviewed.</p>
     </td>
   </tr>
 </table>
