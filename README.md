@@ -6,8 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-dujiangucol-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dujiangucol)
-[![RAG Systems](https://img.shields.io/badge/RAG%20Systems-public%20repo-1e3a8a?style=for-the-badge)](https://github.com/dujiangucol/Rag_Language_Tutor)
 [![Optimization](https://img.shields.io/badge/Optimization-public%20repo-0f766e?style=for-the-badge)](https://github.com/dujiangucol/recovery-optimization-engine)
+[![Forecasting](https://img.shields.io/badge/Forecasting-public%20repo-b45309?style=for-the-badge)](https://github.com/dujiangucol/energy-market-intelligence)
 
 </div>
 
@@ -39,11 +39,17 @@
 
 ## Featured Work
 
+![Featured divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:f59e0b,45:d97706,100:92400e)
+
 <table>
   <tr>
     <td width="50%">
       <h3>Recovery Optimization Engine</h3>
-      <p><a href="https://github.com/dujiangucol/recovery-optimization-engine">Public repository</a></p>
+      <p>
+        <a href="https://github.com/dujiangucol/recovery-optimization-engine">
+          <img src="https://img.shields.io/badge/Public%20Repository-111827?style=flat-square&logo=github&logoColor=fbbf24" />
+        </a>
+      </p>
       <p><b>Problem:</b> Recovery operations constrained by finite call capacity.</p>
       <p><b>Solution:</b> Built payer probability modeling and liquidation scoring, then added an optimization allocation layer that converts model outputs into operational decisions.</p>
       <p><b>Impact:</b> 31% recovered value improvement.</p>
@@ -51,7 +57,7 @@
     </td>
     <td width="50%">
       <h3>LLM Evaluation Platform</h3>
-      <p><i>Professional work summary</i></p>
+      <p><img src="https://img.shields.io/badge/Professional%20Work-111827?style=flat-square&logoColor=fbbf24" /></p>
       <p><b>Problem:</b> Human evaluation is expensive and inconsistent.</p>
       <p><b>Solution:</b> Built a BERT evaluation framework with prompt-based judges for LLM output scoring.</p>
       <p><b>Impact:</b> Outperformed GPT-4o benchmark by 3%; reduced fine-tuning cost by 73%.</p>
@@ -61,7 +67,11 @@
   <tr>
     <td width="50%">
       <h3>Energy Market Intelligence</h3>
-      <p><i>Professional work summary</i></p>
+      <p>
+        <a href="https://github.com/dujiangucol/energy-market-intelligence">
+          <img src="https://img.shields.io/badge/Public%20Case%20Study-111827?style=flat-square&logo=github&logoColor=fbbf24" />
+        </a>
+      </p>
       <p><b>Problem:</b> Need forecasting and market signal detection across energy supply-chain data.</p>
       <p><b>Solution:</b> Built rolling PCA and LSTM framework for market sentiment and signal modeling.</p>
       <p><b>Impact:</b> 73.6% directional accuracy.</p>
@@ -69,7 +79,7 @@
     </td>
     <td width="50%">
       <h3>GenAI Customer Analytics</h3>
-      <p><i>Professional work summary</i></p>
+      <p><img src="https://img.shields.io/badge/Professional%20Work-111827?style=flat-square&logoColor=fbbf24" /></p>
       <p><b>Problem:</b> Manual analytics workflows slowed customer intelligence generation.</p>
       <p><b>Solution:</b> Built a self-service SQL-based GenAI analytics assistant for validated customer profile generation.</p>
       <p><b>Impact:</b> 10x query efficiency improvement.</p>
@@ -80,13 +90,17 @@
 
 ---
 
-## Public RAG Build
+## Additional Public Build
 
 <table>
   <tr>
     <td width="35%">
       <h3>RAG Language Tutor</h3>
-      <p><a href="https://github.com/dujiangucol/Rag_Language_Tutor">Public repository</a></p>
+      <p>
+        <a href="https://github.com/dujiangucol/Rag_Language_Tutor">
+          <img src="https://img.shields.io/badge/Public%20Repository-111827?style=flat-square&logo=github&logoColor=94a3b8" />
+        </a>
+      </p>
     </td>
     <td width="65%">
       Retrieval-augmented language tutor with document ingestion, sentence-aware chunking, hybrid retrieval, grounded answer generation, citations, offline fallback mode, optional OpenAI generation, evaluation, tests, CLI, and Streamlit app.
