@@ -2,8 +2,6 @@
 
 ![Profile header](https://capsule-render.vercel.app/api?type=rect&height=190&color=0:020617,55:0f172a,100:1e3a8a&text=Jake%20Du&fontColor=e5e7eb&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%7C%20Product%20Analytics%20%7C%20Optimization%20%7C%20GenAI&descAlignY=61&descSize=18)
 
-<img src="assets/github-profile-headshot.png" width="150" alt="Jake Du professional headshot" style="border-radius: 50%;" />
-
 ![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1400&color=CBD5E1&center=true&vCenter=true&width=820&lines=Building+ML+systems+that+transform+data+into+operational+decisions.;Machine+Learning+%E2%80%A2+Experimentation+%E2%80%A2+Optimization+%E2%80%A2+LLMs+%E2%80%A2+Product+Analytics)
 
 [![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
