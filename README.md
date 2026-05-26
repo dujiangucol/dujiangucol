@@ -1,135 +1,156 @@
-<h1 align="center">Jake Du</h1>
+<div align="center">
 
-<p align="center">
-  <b>Data Scientist | Product Analytics | Optimization | GenAI / RAG | Experimentation</b>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,45:2563eb,100:7c3aed&text=Jake%20Du&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20building%20models,%20experiments,%20and%20GenAI%20systems%20that%20become%20decisions&descAlignY=58&descSize=17)
+
+[![Email](https://img.shields.io/badge/Email-jd4008%40columbia.edu-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd4008@columbia.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-dujiangucol-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dujiangucol)
+[![RAG](https://img.shields.io/badge/Featured-RAG%20Language%20Tutor-7c3aed?style=for-the-badge)](https://github.com/dujiangucol/Rag_Language_Tutor)
+
+</div>
+
+---
+
+## Data Scientist: Product, Optimization, GenAI
+
+I build data products that move from **messy data** to **measurable decisions**. My strongest work connects product analytics, experimentation, machine learning, optimization, and GenAI into systems that business teams can actually use.
+
+```text
+raw data -> features -> models -> evaluation -> decision rules -> product / operations impact
+```
+
+Currently working across product analytics, A/B testing, forecasting, optimization, and GenAI automation.
+
+---
+
+## Core Skill Map
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Product Analytics</h3>
+      <p>Metric design, A/B testing, funnel analysis, guardrails, causal readouts, product decision support.</p>
+    </td>
+    <td width="33%">
+      <h3>Machine Learning</h3>
+      <p>Classification, ranking, forecasting, validation, feature engineering, model diagnostics.</p>
+    </td>
+    <td width="33%">
+      <h3>Optimization</h3>
+      <p>Capacity-aware allocation, constrained decision rules, simulation, operational prioritization.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3>GenAI / RAG</h3>
+      <p>Retrieval pipelines, grounded generation, citations, LLM evaluation, prompt systems, safe API handling.</p>
+    </td>
+    <td width="33%">
+      <h3>Data Engineering</h3>
+      <p>ETL, BigQuery, Hive, MySQL, reporting automation, scalable analytics tables.</p>
+    </td>
+    <td width="33%">
+      <h3>Time Series</h3>
+      <p>SARIMA, rolling PCA, anomaly detection, signal modeling, market structure analysis.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>RAG Language Tutor</h3>
+      <p><a href="https://github.com/dujiangucol/Rag_Language_Tutor">View repository</a></p>
+      <p>A full retrieval-augmented language tutor showing the complete RAG lifecycle: ingestion, chunking, hybrid retrieval, grounded generation, citations, evaluation, CLI, tests, and optional Streamlit UI.</p>
+      <p><b>Techniques:</b> TF-IDF retrieval, keyword overlap, phrase boosts, source metadata, expected-term recall, offline fallback generation, optional OpenAI mode.</p>
+    </td>
+    <td width="50%">
+      <h3>Risk Recovery Modeling</h3>
+      <p><a href="https://github.com/dujiangucol/risk-recovery-modeling">View repository</a></p>
+      <p>A decision-intelligence project for account recovery prioritization and call allocation. It moves from features and model scores to operational allocation rules and reporting outputs.</p>
+      <p><b>Techniques:</b> feature engineering, champion-challenger modeling, decile lift, response curves, constrained allocation, automated reports.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Algorithmic Trading Research</h3>
+      <p><i>Private while under review</i></p>
+      <p>Statistical arbitrage research with S&P 500 data, SVD clustering, portfolio construction, spread signals, transaction-cost-aware backtesting, and train/test improvement experiments.</p>
+      <p><b>Techniques:</b> SVD, clustering, minimum-variance weights, mean reversion, z-score signals, backtesting discipline.</p>
+    </td>
+    <td width="50%">
+      <h3>GenAI Analytics Automation</h3>
+      <p><i>Professional work summary</i></p>
+      <p>Built self-serve GenAI analytics workflows that help marketers generate validated customer profiles through SQL-backed automation and reduce analyst dependency.</p>
+      <p><b>Techniques:</b> SQL validation, prompt workflows, product analytics, automation, human-in-the-loop checks.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-b91c1c?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-34A853?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="mailto:jd4008@columbia.edu">Email</a> ·
-  <a href="https://github.com/dujiangucol">GitHub</a> ·
-  <a href="https://github.com/dujiangucol/Rag_Language_Tutor">RAG Language Tutor</a> ·
-  <a href="https://github.com/dujiangucol/risk-recovery-modeling">Risk Recovery Modeling</a>
-</p>
-
 ---
 
-## About Me
+## How I Think
 
-I am a data scientist focused on building decision systems that connect modeling, experimentation, and business operations. My work sits at the intersection of product analytics, machine learning, optimization, and GenAI.
-
-I like projects where the goal is not just to train a model, but to make the output usable: define the metric, build the data pipeline, evaluate the model, translate predictions into decisions, and measure whether the system actually improved the outcome.
-
-Currently, I work on product analytics, A/B testing, optimization, forecasting, and GenAI automation for operational decision-making.
-
----
-
-## What I Build
-
-| Area | What I Focus On | Tools / Methods |
-| --- | --- | --- |
-| Product Analytics | Metrics design, funnel analysis, experiment readouts, product decision support | SQL, Python, A/B testing, causal inference |
-| Machine Learning | Predictive modeling, ranking, classification, feature engineering, evaluation | scikit-learn, pandas, model validation |
-| Optimization | Capacity-aware allocation, decision rules, constrained optimization | scipy, linear programming, simulation |
-| GenAI / RAG | Retrieval pipelines, grounded generation, LLM evaluation, prompt systems | OpenAI, retrieval, evaluation sets, citations |
-| Data Engineering | ETL, reporting automation, scalable analytics tables | BigQuery, Hive, MySQL, Airflow, GCP |
-| Time Series | Forecasting, anomaly detection, rolling signals, market structure analysis | SARIMA, PCA, LSTM, statistical modeling |
-
----
-
-## Featured Projects
-
-### RAG Language Tutor
-
-[Repository](https://github.com/dujiangucol/Rag_Language_Tutor)
-
-A full retrieval-augmented language tutor that demonstrates an end-to-end GenAI pipeline:
-
-- document ingestion for Markdown, text, and PDF sources
-- sentence-aware chunking with metadata
-- hybrid retrieval using TF-IDF, keyword overlap, and phrase-aware boosts
-- grounded tutoring answers with citations and confidence scores
-- offline fallback generation plus optional OpenAI mode
-- retrieval evaluation with expected-term recall
-- CLI, tests, and optional Streamlit app
-
-Why it matters: this project shows how I think about RAG as a system: data preparation, retrieval quality, answer grounding, evaluation, and safe API-key handling.
-
-### Risk Recovery Modeling
-
-[Repository](https://github.com/dujiangucol/risk-recovery-modeling)
-
-A decision-intelligence project for prioritizing account recovery and call allocation:
-
-- feature engineering pipeline
-- baseline and champion-challenger modeling
-- decile lift analysis
-- call-response curve modeling
-- constrained allocation logic
-- automated output reports
-
-Why it matters: the project turns model scores into operational actions, which is where data science becomes useful for business teams.
-
-### Algorithmic Trading Research
-
-Repository currently private while under review.
-
-A research project for statistical arbitrage and mean-reversion testing:
-
-- S&P 500 data workflow
-- SVD-based stock clustering
-- minimum-variance portfolio construction
-- spread signals and backtesting
-- transaction-cost-aware improvement experiments
-- train/test threshold evaluation
-
-Why it matters: the project shows statistical modeling discipline: testing hypotheses, avoiding look-ahead bias, comparing baselines, and reporting whether the strategy actually improves.
-
----
-
-## Technical Stack
-
-**Languages:** Python, SQL, Java, R, MATLAB  
-**Analytics:** A/B testing, causal inference, metrics design, dashboarding, product analytics  
-**ML / Stats:** classification, regression, time series, PCA, optimization, simulation, model evaluation  
-**Data Tools:** BigQuery, Hive, MySQL, PostgreSQL, Airflow, Spark, Tableau  
-**Cloud / Systems:** GCP, AWS Lambda, S3, EC2, Linux, Git  
-**GenAI:** RAG, LLM evaluation, prompt design, fine-tuning workflows, grounded answer generation  
-
----
-
-## How I Approach Problems
-
-1. Define the decision, not just the model.
-2. Translate messy data into reliable features.
-3. Build a baseline before building something complex.
-4. Evaluate with business-facing metrics and technical diagnostics.
-5. Turn outputs into decision rules, dashboards, or automated workflows.
-6. Document the system so another person can understand and run it.
-
----
-
-## Current Interests
-
-- GenAI systems that are measurable, grounded, and useful
-- Product experimentation and causal inference
-- Optimization models for operational decisions
-- LLM evaluation and cost-efficient model assessment
-- Data products that combine analytics, automation, and decision support
+<table>
+  <tr>
+    <td><b>1. Define the decision</b><br/>Start with the action, owner, metric, and constraint.</td>
+    <td><b>2. Build the data spine</b><br/>Make features reliable before making models complex.</td>
+  </tr>
+  <tr>
+    <td><b>3. Benchmark honestly</b><br/>Use baselines, train/test separation, and business-facing diagnostics.</td>
+    <td><b>4. Ship the workflow</b><br/>Turn outputs into dashboards, rules, tools, or automated reports.</td>
+  </tr>
+</table>
 
 ---
 
 ## Background
 
-**Columbia University**  
-M.S. Operations Research
+<p>
+  <b>Columbia University</b> · M.S. Operations Research<br/>
+  <b>Boston University</b> · B.A. Statistics & Computer Science
+</p>
 
-**Boston University**  
-B.A. Statistics & Computer Science
-
-I have worked across product analytics, optimization, LLM evaluation, supply-chain analytics, forecasting, and GenAI automation.
+Selected areas: optimization models, machine learning, simulation, A/B testing, reinforcement learning, stochastic models, financial engineering, algorithmic trading, applied probability and statistics.
 
 ---
 
-<p align="center">
-  <i>Building data products that move from insight to decision.</i>
-</p>
+## Current Interests
+
+- measurable GenAI systems and RAG evaluation
+- product experimentation and causal inference
+- LLM evaluation and cost-efficient model assessment
+- optimization models for operational decisions
+- data products that combine analytics, automation, and decision support
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7c3aed,50:2563eb,100:0f766e)
+
+<b>Building data products that move from insight to decision.</b>
+
+</div>
